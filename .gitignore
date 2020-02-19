@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+data/*
+venv/
+serial_csv/.vscode/
+arduino_build/
